@@ -1,4 +1,4 @@
-# PRML
+# cautious
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
