@@ -1,4 +1,4 @@
-# diagnosis
+# BareMetal
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
