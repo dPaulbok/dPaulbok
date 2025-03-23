@@ -1,4 +1,4 @@
-# cautious
+# diagnosis
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
