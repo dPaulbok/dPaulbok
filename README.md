@@ -1,4 +1,4 @@
-# BareMetal
+# ESP32
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
