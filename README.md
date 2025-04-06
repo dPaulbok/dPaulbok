@@ -1,4 +1,4 @@
-# ESP32
+# reimagined
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
