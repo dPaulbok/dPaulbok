@@ -1,4 +1,4 @@
-# reimagined
+# dPaulbok
 
 GitHub Actionsを触ってみるためだけに作ったサンプルサイトです。
 
